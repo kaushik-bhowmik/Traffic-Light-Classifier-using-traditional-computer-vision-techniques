@@ -1,4 +1,5 @@
 # Traffic-Light-Classifier-using-traditional-computer-vision-techniques
+Abstract: As for autonomous driving cars, to safely drive in a real- condition, it is required to stop and start the car according to instruction provided by traffic lights.So, this objective can be computer vision and a model can be made either (using traditional methods or using deep learning aproach).
 In this project, I used tradtional computer vision techniques for classification of traffic light signal.
 The steps followed in this project are:
 1. Loading and visualizing the data. 
